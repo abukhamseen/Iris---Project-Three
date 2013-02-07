@@ -1,0 +1,62 @@
+.menuText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	padding: 4px;
+	font-style: normal;
+	color: #ff5d45;
+}
+.menuText2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	padding: 4px;
+	font-style: normal;
+	color: #fed039;
+}
+
+.menuText3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	padding: 4px;
+	font-style: normal;
+	color: #e2385d;
+}
+.greenText1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #a3ac7a;
+	padding: 4px;
+}
+.featuresText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #ff5d45;
+	padding: 4px;
+}
+
+.purchaseText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #fed039;
+	padding: 4px;
+}
+
+.contactText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #e2385d;
+	padding: 4px;
+}
+
+.footerText {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #F00;
+}
